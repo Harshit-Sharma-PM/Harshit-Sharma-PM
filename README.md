@@ -42,6 +42,6 @@ Product discovery · Workflow mapping · Jira · SQL learning and practice · RA
 
 - **Portfolio:** https://harshit-sharma-product-portfolio.pages.dev
 - **GitHub:** https://github.com/Harshit-Sharma-PM
-- **LinkedIn:** https://www.linkedin.com/
+- **LinkedIn:** https://www.linkedin.com/in/harshit-sharma-bb5a61286
 
 *Professional experience and independent prototypes are presented separately. Prototype data and outcomes should not be interpreted as live production results.*
